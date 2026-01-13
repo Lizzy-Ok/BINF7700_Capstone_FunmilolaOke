@@ -38,7 +38,6 @@ The specific research question and dataset will be refined during the term.
 - Practice translating biological questions into computational workflows  
 - Develop clearer documentation and presentation of results  
 
-## Project Structure (Draft)
 
 ## Project Structure (Draft)
 
